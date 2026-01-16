@@ -1,0 +1,37 @@
+# ========== Unity generated ==========
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# ========== IDE / Editor ==========
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.user
+*.userprefs
+
+# ========== OS junk ==========
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ========== Unity auto files ==========
+*.pidb
+*.pidb.meta
+*.pdb
+*.pdb.meta
+*.mdb
+*.mdb.meta
+
+# ========== Build outputs ==========
+*.apk
+*.aab
+*.exe
+*.app
+*.unitypackage
